@@ -4,7 +4,7 @@
 ### Um guia CSS para iniciantes e curiosos! :blue_book:
 
 #### Tópicos:
-1. [Conceitos básicos :heavy_check_mark:](http://#)
+1. [Conceitos básicos :heavy_check_mark:](#)
    - O que é CSS
    - Adicionando Estilo ao HTML
    - Estrutura básica
