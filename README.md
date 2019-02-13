@@ -3,6 +3,8 @@
 # guiaCSS
 ### Um guia CSS para iniciantes e curiosos! :blue_book:
 
+**Apresentação do guia e lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean mollis tristique lectus, a pharetra velit ornare id. Ut efficitur velit vitae ante interdum congue. In egestas nunc ac ante efficitur, eget lacinia erat porttitor.** 
+
 #### Tópicos:
 1. [Conceitos básicos :heavy_check_mark:](#)
    - [O que é CSS](#)
