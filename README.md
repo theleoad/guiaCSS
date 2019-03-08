@@ -23,7 +23,7 @@
    - [Pseudo-classes](#)
    - [Pseudo-classes de negação](#)
    - [Pseudo-classes de interação](#)
-   - [Pseudo-elementos](#)
+   - [Pseudo-elementos](https://github.com/theleoad/guiaCSS/blob/master/seletores.md#pseudo-elementos)
 4. [Propriedades :computer:](./propriedades.md)
    - [Texto](#)
    - [Cor](#)
