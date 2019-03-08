@@ -18,7 +18,7 @@
    - [Valores: Porcentagem](#)
    - [Valores: Unidades de Medida](#)
    - [Valores: Ângulos](#)
-3. [Seletores :interrobang:](./seledores.md)
+3. [Seletores :interrobang:](./seletores.md)
    - [Seletores básicos](#)
    - [Pseudo-classes](#)
    - [Pseudo-classes de negação](#)
