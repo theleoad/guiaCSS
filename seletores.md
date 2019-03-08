@@ -55,10 +55,32 @@ Seleciona elementos baseado no valor do atributo `id`. Deve existir apenas um el
 }
 ```
 
-### Seletor por Classe  
+### Seletor de Classe  
 Seleciona elementos baseado no valor do atributo `class`. Diferente do ID, podemos ter mais de um elemento com a mesma classe no documento.
-**Sintaxe**: `.center`  
+**Sintaxe**: `.nome-da-classe`  
 **Como funciona**: `.center` corresponderá aos elementos que possuirem `class ="center"`.  
+**Exemplo**:  
+```html
+<p class="center">Usando o seletor por classe</p>
+```
+```css
+.center {
+  text-align: center;
+  color: blue;
+}
+```
+
+### Seletor de Atributo  
+Seleciona elementos baseado no valor de um dos seus atributos (`nome-do-atributo="valor-do-atributo"`), ou até mesmo pelo próprio atributo.
+**Sintaxe**: `[atributo]`, `[atributo="valor"]`, `[atributo~="valor"]`, `[atributo|="valor"]`, `[atributo^="valor"]`, `[atributo$="valor"]`, `[atributo*="valor"]`   
+**Como funciona**:  
+`[href]` corresponderá aos elementos que possuirem o atributo `href` (para qualquer valor);  
+`[href="https://google.com"]` corresponderá aos elementos que possuírem o atributo `href` com o valor exato de `https://google.com`;  
+`[href*="google"]` corresponderá aos elementos que possuírem o atributo `href` contendo `google` em alguma parte do seu valor;  
+`[href^="http"]` corresponderá aos elementos que possuírem o atributo `href` com seu valor começando em `http`;  
+`[href$="pdf"]` corresponderá aos elementos que possuírem o atributo `href` com seu valor terminando em `pdf`;   
+`[title~="casa"]` corresponderá aos elementos que possuírem o atributo `title` contendo a string `casa` em alguma parte do seu valor. Esse seletor só funciona com os valores do atributo no documento sendo listas separadas por espaço;
+`[data-decadas|="1980"]` corresponderá aos elementos que possuírem o atributo `data-decadas` começando a string `1980`. Esse seletor só funciona com os valores do atributo no documento sendo listas separadas por *dashes* (traços -);  
 **Exemplo**:  
 ```html
 <p class="center">Usando o seletor por classe</p>
