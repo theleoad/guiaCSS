@@ -13,9 +13,9 @@ No exemplo acima, estamos selecionando a tag body, ou seja body é nosso seletor
 
 Existem vários tipos de seletores, vamos falar sobre cada um deles e como devem ser utilizados.
  
-## [Seletores Básicos](https://github.com/theleoad/guiaCSS/blob/master/seletores-basicos.md)
-## [Combinadores](https://github.com/theleoad/guiaCSS/blob/master/combinadores.md)
-## Pseudo-classes
-## Pseudo-classes de negação
-## Pseudo-classes de interação
-## Pseudo-elementos
+### [Seletores Básicos](https://github.com/theleoad/guiaCSS/blob/master/seletores-basicos.md)
+### [Combinadores](https://github.com/theleoad/guiaCSS/blob/master/combinadores.md)
+### Pseudo-classes
+### Pseudo-classes de negação
+### Pseudo-classes de interação
+### Pseudo-elementos
