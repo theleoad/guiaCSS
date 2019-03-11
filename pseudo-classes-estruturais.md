@@ -97,3 +97,16 @@ p:last-of-type {
 }
 ```
 ---
+
+### :nth-child(an+b) 
+Seleciona elementos com base em suas posições em um grupo de elementos irmãos.    
+**Sintaxe**: ` `  
+**Como funciona**:    
+**Exemplo**:  
+```html
+<html>```
+```css
+css {
+}
+```
+---
