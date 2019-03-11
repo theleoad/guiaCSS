@@ -99,12 +99,55 @@ p:last-of-type {
 ---
 
 ### :nth-child(an+b) 
-Seleciona elementos com base em suas posições em um grupo de elementos irmãos.    
+Seleciona um ou mais elementos com base em suas posições em um grupo de elementos irmãos.    
 **Sintaxe**: ` `  
 **Como funciona**:    
 **Exemplo**:  
 ```html
-<html>```
+<html>
+```
+```css
+css {
+}
+```
+---
+
+### :nth-last-child(an+b) 
+Seleciona um ou mais elementos com base em sua posição entre um grupo de elementos irmãos, contando a partir do último.  
+**Sintaxe**: ` `  
+**Como funciona**:    
+**Exemplo**:  
+```html
+<html>
+```
+```css
+css {
+}
+```
+---
+
+### :nth-of-type(an+b) 
+Seleciona um ou mais elementos de um tipo, baseado em sua posição entre um grupo de elementos irmãos.    
+**Sintaxe**: ` `  
+**Como funciona**:    
+**Exemplo**:  
+```html
+<html>
+```
+```css
+css {
+}
+```
+---
+
+### :nth-last-of-type(an+b) 
+Seleciona um ou mais elementos de um tipo, baseado em sua posição entre um grupo de elementos irmãos, contando a partir do último.  
+**Sintaxe**: ` `  
+**Como funciona**:    
+**Exemplo**:  
+```html
+<html>
+```
 ```css
 css {
 }
