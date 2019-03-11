@@ -15,7 +15,7 @@ Existem vários tipos de seletores, vamos falar sobre cada um deles e como devem
  
 ### [Seletores Básicos](https://github.com/theleoad/guiaCSS/blob/master/seletores-basicos.md)
 ### [Combinadores](https://github.com/theleoad/guiaCSS/blob/master/combinadores.md)
-### Pseudo-classes
+### [Pseudo-classes](https://github.com/theleoad/guiaCSS/blob/master/pseudo-classes.md)
 ### Pseudo-classes de negação
 ### Pseudo-classes de interação
 ### Pseudo-elementos
