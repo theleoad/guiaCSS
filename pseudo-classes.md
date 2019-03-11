@@ -14,6 +14,6 @@ As pseudo-classes permitem que você aplique estilos a um elemento não somente 
 
 As pseudo-classes são divididas em 3 tipos e vamos falar sobre cada um deles dentro de cada seção abaixo:
 
-### [Pseudo-classes estruturais]()
+### [Pseudo-classes estruturais](https://github.com/theleoad/guiaCSS/blob/master/pseudo-classes-estruturais.md)
 ### [Pseudo-classe de negação]()
 ### [Pseudo-classes de estado]()
