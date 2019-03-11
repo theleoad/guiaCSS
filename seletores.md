@@ -151,6 +151,7 @@ O combinador `>` selecina elementos que são filhos diretos do elemento especifi
 **Sintaxe**: `elemento-pai > elemento-filho`  
 **Como funciona**: `section > p` irá corresponder a todo elemento  `<p>` qque estiver diretamente dentro de um elemento `<section>` especificado.  
 **Exemplo**:  
+```html
 <section>
   <p>1 - parágrafo</p>
   <div>
