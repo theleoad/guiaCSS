@@ -1,4 +1,4 @@
-<img src="https://via.placeholder.com/1080x250.png?text=guiaCSS+-+F%C3%A1brica+de+Tecnologias+Turing">
+<img src="./assets/guia-css-logo.jpg">
 
 # guiaCSS
 ### Um guia CSS para iniciantes e curiosos! :blue_book:
@@ -29,6 +29,6 @@
    - [Margins e Paddings](./propriedades/margins-e-paddings.md)
    - [Borders](./propriedades/borders.md)
 
----
+<img src="./assets/guia-css-linha-horizontal.jpg">
 
 [ftt.unievangelica.edu.br :arrow_backward:](http://ftt.unievangelica.edu.br) 
