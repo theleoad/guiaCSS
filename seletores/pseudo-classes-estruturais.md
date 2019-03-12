@@ -1,5 +1,5 @@
 # Pseudo-classes estruturais
-###### [Guia CSS](https://github.com/theleoad/guiaCSS/blob/master/README.md) > [Seletores](https://github.com/theleoad/guiaCSS/blob/master/seletores.md) > [Pseudo-classes](https://github.com/theleoad/guiaCSS/blob/master/pseudo-classes.md) > Pseudo-classes estruturais
+###### [Guia CSS](../README.md) > [Seletores](./seletores.md) > [Pseudo-classes](./pseudo-classes.md) > Pseudo-classes estruturais
 ---
 
 Para definir essa divisão especial colocada como "estruturais" precisamos primeiro entender que todas as pseudo-classes (assim como todos os outros seletores) são estruturais: eles são dependentes da estrutura do documento de toda maneira. O que faz termos essa divisão especial é que essas pseudo-classes estão intrinsecamente ligadas a padrões encontrados na estrutura do documento.  Ou seja, são utilizadas para selecionar elementos da estutura do documento de uma maneira que os outros seletores não são capazes de fazer.  

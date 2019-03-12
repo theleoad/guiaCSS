@@ -1,5 +1,5 @@
 # Conceitos Básicos
-###### [Guia CSS](https://github.com/theleoad/guiaCSS/blob/master/README.md) > Conceitos Básicos - O que é o CSS?
+###### [Guia CSS](../README.md) > Conceitos Básicos - O que é o CSS?
 ---
 
 ## O que é o CSS?

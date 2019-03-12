@@ -1,5 +1,5 @@
 # Combinadores
-###### [Guia CSS](https://github.com/theleoad/guiaCSS/blob/master/README.md) > [Seletores](https://github.com/theleoad/guiaCSS/blob/master/seletores.md) > Combinadores
+###### [Guia CSS](../README.md) > [Seletores](./seletores.md) > Combinadores
 ---
 
 ### Seletor de descendentes  
