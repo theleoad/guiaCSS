@@ -16,10 +16,6 @@ Confira abaixo uma página criada pela W3Schools para mostrar como um mesmo docu
 [HTML com diferentes estilos - W3Schools](https://www.w3schools.com/css/demo_default.htm)
 
 ---
-
-### Conceitos Básicos do CSS:
-
-- [O que é CSS](./conceitos-basicos/o-que-e-o-css.md)
-- [Adicionando Estilo ao HTML](./conceitos-basicos/adicionando-estilo-ao-html.md)
-- [Estrutura básica](./conceitos-basicos/estrutura-basica)
-- [CSS Box Model](./conceitos-basicos/css-box-model)
+#### Nesta Seção:
+[**Conceitos Básicos**](./conceitos-basicos.md)  
+[O que é CSS?](./o-que-e-css.md) | [Adicionando estilo ao HTML](./adicionando-estilo-ao-html.md) | [Estrutura básica](./estrutura-basica.md) | [CSS Box Model](./css-box-model.md)
