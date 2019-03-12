@@ -6,7 +6,7 @@ Para enteder como surgiu o CSS precisamos falar do HTML. Quando o HTML surgiu el
 
 O CSS é uma ferramenta incrível que surgiu nos meados da década de 90, em 1994 para ser mais exato. [Håkon Wium Lie ](https://pt.wikipedia.org/wiki/H%C3%A5kon_Wium_Lie) propôs a criação do CSS para lidar de uma maneira mais simples com os estilos dos documentos HTML. Dessa maneira começou a surgir o CSS que está em constante evolução.
 
-![CSS é fácil?](https://media.giphy.com/media/xZqycRHIQkKNa/giphy.gif)
+![CSS é fácil?](https://media.giphy.com/media/xZqycRHIQkKNa/giphy.gif)  
 *CSS tem uma sintaxe fácil, mas demora um tempo para dominar*
 
 Nesse guia vamos falar um pouco sobre os conceitos básicos do CSS e como ele funciona, sempre contando com materiais de apoio externo e links com curiosidades.
