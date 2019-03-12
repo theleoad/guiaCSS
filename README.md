@@ -9,7 +9,7 @@
 1. [Conceitos básicos :heavy_check_mark:](./conceitos-basicos/conceitos-basicos.md)
    - [O que é CSS](./conceitos-basicos/o-que-e-o-css.md)
    - [Adicionando Estilo ao HTML](./conceitos-basicos/adicionando-estilo-ao-html.md)
-   - [Estrutura básica](./conceitos-basicos/estrutura-basica)
+   - [Regra CSS](./conceitos-basicos/regra-css)
    - [CSS Box Model](./conceitos-basicos/css-box-model)
 2. [Valores :bar_chart:](./valores/valores.md)
    - [Palavras-chave](./valores/palavras-chave.md)

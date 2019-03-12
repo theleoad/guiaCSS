@@ -18,7 +18,7 @@ Confira abaixo uma página criada pela W3Schools para mostrar como um mesmo docu
 ---
 #### Nesta Seção:
 [**Conceitos Básicos**](./conceitos-basicos.md)  
-[O que é CSS?](./o-que-e-css.md) | [Adicionando estilo ao HTML](./adicionando-estilo-ao-html.md) | [Estrutura básica](./estrutura-basica.md) | [CSS Box Model](./css-box-model.md)
+[O que é CSS?](./o-que-e-css.md) | [Adicionando estilo ao HTML](./adicionando-estilo-ao-html.md) | [Regra CSS](./regra-css.md) | [CSS Box Model](./css-box-model.md)
 
 <img src="../assets/guia-css-linha-horizontal.jpg">
 

@@ -6,7 +6,7 @@ O CSS pode ser aplicado aos documentos de três formas diferentes, veremos abaix
 
 ## CSS Inline
 
-No seu documento HTML é possível adicionar estilo a um elemento individual através do atributo `style`. O valor que será adicionado a esse atributo é o que chamamos de *Bloco de Declaração* (Veremos na seção [Estrutura básica](./estrutura-basica.md)). No caso desse estilo inline o Bloco de Declaração irá sem as chaves:
+No seu documento HTML é possível adicionar estilo a um elemento individual através do atributo `style`. O valor que será adicionado a esse atributo é o que chamamos de *Bloco de Declaração* (Veremos na seção [Regra CSS](./regra-css.md)). No caso desse estilo inline o Bloco de Declaração irá sem as chaves:
 
 ```html
 <p style="color: red; font-size: 16px;">Texto com CSS Inline aplicado</p>
@@ -55,7 +55,7 @@ Como se pode ver no exemplo acima, é possível adicionar mais de um arquivo CSS
 ---
 ## Nesta Seção:
 [**Conceitos Básicos**](./conceitos-basicos.md)  
-[O que é CSS?](./o-que-e-css.md) | [Adicionando estilo ao HTML](./adicionando-estilo-ao-html.md) | [Estrutura básica](./estrutura-basica.md) | [CSS Box Model](./css-box-model.md)
+[O que é CSS?](./o-que-e-css.md) | [Adicionando estilo ao HTML](./adicionando-estilo-ao-html.md) | [Regra CSS](./regra-css.md) | [CSS Box Model](./css-box-model.md)
 
 <img src="../assets/guia-css-linha-horizontal.jpg">
 
