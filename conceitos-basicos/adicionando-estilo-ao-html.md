@@ -58,4 +58,4 @@ Como se pode ver no exemplo acima, é possível adicionar mais de um arquivo CSS
 [O que é CSS?](./o-que-e-css.md) | [Adicionando estilo ao HTML](./adicionando-estilo-ao-html.md) | [Estrutura básica](./estrutura-basica.md) | [CSS Box Model](./css-box-model.md)
 
 <img src="../assets/guia-css-linha-horizontal.jpg">
-[ftt.unievangelica.edu.br :arrow_backward:](http://ftt.unievangelica.edu.br) 
+[ftt.unievangelica.edu.br :arrow_backward:](http://ftt.unievangelica.edu.br)  
