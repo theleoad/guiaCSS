@@ -12,10 +12,11 @@ body {
 No exemplo acima, estamos selecionando a tag body, ou seja body é nosso seletor na Regra CSS apresentada.
 
 Existem vários tipos de seletores, vamos falar sobre cada um deles e como devem ser utilizados.
- 
-### [Seletores Básicos](./seletores-basicos.md)
-### [Combinadores](./combinadores.md)
-### [Pseudo-classes](./pseudo-classes.md)
-### Pseudo-classes de negação
-### Pseudo-classes de interação
-### Pseudo-elementos
+
+---
+#### Nesta Seção:
+[**Seletores**](./seletores.md)   
+[Seletores Básicos](./seletores-basicos.md) | [Combinadores](./combinadores.md) | [Pseudo-classes](./pseudo-classes.md) | [Pseudo-elementos](./pseudo-elementos.md)
+
+---
+[ftt.unievangelica.edu.br :arrow_backward:](http://ftt.unievangelica.edu.br) 

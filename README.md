@@ -19,7 +19,8 @@
    - [Valores: Unidades de Medida](./valores/unidades-de-medida.md)
    - [Valores: Ângulos](./valores/angulos.md)
 3. [Seletores :interrobang:](./seletores/seletores.md)
-   - [Seletores básicos](./seletores/seletores-basicos.md)
+   - [Seletores básicos](./seletores/seletores-basicos.md)  
+   - [Combinadores](./combinadores.md)
    - [Pseudo-classes](./seletores/pseudo-classes.md)
    - [Pseudo-elementos](./seletores/pseudo-elementos.md)
 4. [Propriedades :computer:](./propriedades/propriedades.md)
@@ -28,6 +29,6 @@
    - [Margins e Paddings](./propriedades/margins-e-paddings.md)
    - [Borders](./propriedades/borders.md)
 
-***
+---
 
 [ftt.unievangelica.edu.br :arrow_backward:](http://ftt.unievangelica.edu.br) 

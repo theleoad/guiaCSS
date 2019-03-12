@@ -152,4 +152,11 @@ Seleciona um ou mais elementos de um tipo, baseado em sua posição entre um gru
 css {
 }
 ```
+
 ---
+#### Nesta Seção:
+[**Seletores**](./seletores.md)   
+[Seletores Básicos](./seletores-basicos.md) | [Combinadores](./combinadores.md) | [Pseudo-classes](./pseudo-classes.md) | [Pseudo-elementos](./pseudo-elementos.md)
+
+---
+[ftt.unievangelica.edu.br :arrow_backward:](http://ftt.unievangelica.edu.br) 

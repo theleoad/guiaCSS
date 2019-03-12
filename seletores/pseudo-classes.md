@@ -17,3 +17,11 @@ As pseudo-classes são divididas em 3 tipos e vamos falar sobre cada um deles de
 ### [Pseudo-classes estruturais](./pseudo-classes-estruturais.md)
 ### [Pseudo-classe de negação]()
 ### [Pseudo-classes de estado]()
+
+---
+#### Nesta Seção:
+[**Seletores**](./seletores.md)   
+[Seletores Básicos](./seletores-basicos.md) | [Combinadores](./combinadores.md) | [Pseudo-classes](./pseudo-classes.md) | [Pseudo-elementos](./pseudo-elementos.md)
+
+---
+[ftt.unievangelica.edu.br :arrow_backward:](http://ftt.unievangelica.edu.br) 
