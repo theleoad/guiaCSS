@@ -24,4 +24,5 @@ As pseudo-classes são divididas em 3 tipos e vamos falar sobre cada um deles de
 [Seletores Básicos](./seletores-basicos.md) | [Combinadores](./combinadores.md) | [Pseudo-classes](./pseudo-classes.md) | [Pseudo-elementos](./pseudo-elementos.md)
 
 <img src="../assets/guia-css-linha-horizontal.jpg">
+
 [ftt.unievangelica.edu.br :arrow_backward:](http://ftt.unievangelica.edu.br) 
