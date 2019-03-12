@@ -19,7 +19,7 @@ Confira abaixo uma página criada pela W3Schools para mostrar como um mesmo docu
 
 ### Conceitos Básicos do CSS:
 
-- [O que é CSS](./conceitos-basicos/o-que-e-o-css.md)
-- [Adicionando Estilo ao HTML](./conceitos-basicos/adicionando-estilo-ao-html.md)
-- [Estrutura básica](./conceitos-basicos/estrutura-basica)
-- [CSS Box Model](./conceitos-basicos/css-box-model)
+- [O que é CSS](./o-que-e-o-css.md)
+- [Adicionando Estilo ao HTML](./adicionando-estilo-ao-html.md)
+- [Estrutura básica](./estrutura-basica)
+- [CSS Box Model](./css-box-model)
