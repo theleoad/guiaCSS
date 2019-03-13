@@ -11,6 +11,9 @@ Uma **Regra CSS** é uma declaração que define estilo a um ou mais elementos n
   - Propriedade:  é o atributo do elemento HTML ao qual será aplicada a regra (por exemplo: font-size, color, background, etc);
   - Valor: é a característica específica a ser assumida pela propriedade (por exemplo: fonte de 16px, cor vermelha, fundo azul).
 
+![Legal, mas e aí?](https://media1.tenor.com/images/555b77dde4cbfa15cb2c108493e019bf/tenor.gif)  
+*Legal, mas e aí?*
+
 Exemplo de Regras CSS:
 
 ```css
@@ -34,6 +37,8 @@ p {
   color: darkgray;
 }
 ```
+
+
 
 ---
 #### Nesta Seção:

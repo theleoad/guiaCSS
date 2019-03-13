@@ -28,7 +28,10 @@ div {
 
 ### Propriedade `box-sizing`
 
-Se usarmos como referência o exemplo acima podemos dizer que nossa `div` terá `100px` de largura e `100px` de altura. Mas isso não é verdade, se inspecionarmos esse elemento vamos ver que ele foi renderizado com `220px` de largura e `220px` de altura. Essa largura e altura têm esse valor pois os valores da `border` e `padding` são somadas à largura e altura definidas para o conteúdo. Com isso podemos perceber que as propriedades `width` e `height` definem as dimensões do conteúdo e não de todo o elemento. 
+Se usarmos como referência o exemplo acima podemos dizer que nossa `div` terá `100px` de largura e `100px` de altura. Mas isso não é verdade, se inspecionarmos esse elemento vamos ver que ele foi renderizado com `220px` de largura e `220px` de altura. Essa largura e altura têm esse valor pois os valores da `border` e `padding` são somadas à largura e altura definidas para o conteúdo. Com isso podemos perceber que as propriedades `width` e `height` definem as dimensões do conteúdo e não de todo o elemento.
+
+![É matemática!](https://media.giphy.com/media/c7PcKQlOqZ8Ws/giphy.gif)  
+*É matemática!*
 
 Vamos entender a matemática:
 
@@ -53,7 +56,7 @@ De fato isso pode paracer confuso e nos trazer problemas no nosso trabalho cotid
 >Você precisa criar duas DIVs onde cada uma ocupe 50% da largura do elemento pai, dessa maneira as DIVs ficariam lado a lado.  
 Com o valor padrão da propriedade `box-sizing` não daria certo, mas vamos ver como solucinar:
 
-[Exemplo do 'box-sizing' no CODEPEN](https://codepen.io/theleoad/pen/qvpBPq)
+[Exemplo do 'box-sizing' no CODEPEN](https://codepen.io/theleoad/pen/qvpBPq/right?editors=1100)
 
 Como vimos no exemplo a solução é mudar o valor do `box-sizing` para `border-box`. Mas como funciona esse valor? Ele altera todo o comportamento do Box Model, fazendo com que o browser calcule as dimensões do elemento contando não somenent o seu conteúdo, como acontece com o valor `content-box`, mas também considerando o `padding` e `border` do elemento.
 

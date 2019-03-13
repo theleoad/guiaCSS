@@ -51,6 +51,11 @@ Com esse método você pode modificar o visual de um projeto com várias página
 ```
 
 Como se pode ver no exemplo acima, é possível adicionar mais de um arquivo CSS em um documento HTML. É bom saber que se você aplicar um estilo a um elemento em dois arquivos CSSs distintos, o último arquivo adicionado será o utilizado. No caso do exemplo o `estilo-2.css` terá mais importância que o `estilo-1.css`. 
+
+
+![O IE precisa acabar!](https://media1.tenor.com/images/ab5ee72270f3903008fe73c2b38b2465/tenor.gif)  
+*O IE precisa acabar!*
+
  
 ---
 ## Nesta Seção:

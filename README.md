@@ -1,6 +1,6 @@
 <img src="./assets/guia-css-logo.jpg">
 
-# guiaCSS
+# .guia{CSS}
 ### Um guia CSS para iniciantes e curiosos! :blue_book:
 
 **Apresentação do guia e lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean mollis tristique lectus, a pharetra velit ornare id. Ut efficitur velit vitae ante interdum congue. In egestas nunc ac ante efficitur, eget lacinia erat porttitor.** 
@@ -13,11 +13,10 @@
    - [CSS Box Model](./conceitos-basicos/css-box-model.md)
 2. [Valores :bar_chart:](./valores/valores.md)
    - [Palavras-chave](./valores/palavras-chave.md)
-   - [Valore: Cores](./valores/cores.md)
-   - [Valores: Números](./valores/numeros.md)
-   - [Valores: Porcentagem](./valores/porcentagem.md)
-   - [Valores: Unidades de Medida](./valores/unidades-de-medida.md)
-   - [Valores: Ângulos](./valores/angulos.md)
+   - [Unidades de Medida](./valores/unidades-de-medida.md)
+   - [Cores](./valores/cores.md)
+   - [Números](./valores/numeros.md)
+   - [Porcentagem](./valores/porcentagem.md)
 3. [Seletores :interrobang:](./seletores/seletores.md)
    - [Seletores básicos](./seletores/seletores-basicos.md)  
    - [Combinadores](./combinadores.md)
