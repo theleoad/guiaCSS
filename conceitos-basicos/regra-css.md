@@ -5,6 +5,7 @@
 Uma **Regra CSS** é uma declaração que define estilo a um ou mais elementos na sua página. Essa Regra tem uma sintaxe própria:
 
 <!-- Imagem da Regra-->
+**FALTANDO IMAGEM**
 
 - Seletor: indica o elemento HTML que você deseja adicionar o estilo;
 - Bloco de Declaração: contém uma ou mais declarações separadas por ponto e vírgula. Cada declaração leva uma propriedade CSS e um Valor separados por dois pontos;
