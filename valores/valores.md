@@ -21,7 +21,7 @@ Como você pode perceber existem vários tipos de valores. Nessa seção vamos a
 ---
 #### Nesta Seção:
 [**Valores**](./valores.md)  
-[Palavras-chave](./palavras-chave.md) | [Unidades de medida](./unidades-de-medida.md) | [Cores](./cores.md) | [Números](./numeros.md) | [Porcentagem](./porcentagem.md)  
+[Palavras-chave](./palavras-chave.md) | [Cores](./cores.md) | [Números](./numeros.md) | [Porcentagem](./porcentagem.md) | [Comprimento](./comprimento.md) 
 
 <img src="../assets/guia-css-linha-horizontal.jpg">
 
