@@ -11,8 +11,10 @@ Os valores de cores são usados em propriedades como `color` e `background-color
 - `rgba()` - Função RGB com alpha - Funciona como o formato anterior adicionado de um terceiro valor: o *alpha*. Esse valor vai de 0 até 1 e define a transparência, 0 é totalmente transparente, 1 é totalmente opaco, 0.3 é 30% opaco, etc;
 - `hsl()` - Função HSL - São 3 valores separados por vírgulas. O primeiro valor, *hue* (tom da cor), vai de 0 até 360 e representa um ângulo que aponta para um tom da cor na roda de cores. O segundo valor, *saturation* (saturação), vai de 0% a 100% onde um valor igual a 100% representa saturação e 0% é um leve sombreado cinza de saturação. O terceiro valor, *lightness* (luminosidade), vai de 0% (preto) e 100% (branco);
 - `hsla()` - Função HSL com alpha - Funciona como o formato anterior adicionado de um terceiro valor: o *alpha*. Esse valor vai de 0 até 1 e define a transparência, 0 é totalmente transparente, 1 é totalmente opaco, 0.3 é 30% opaco, etc;
-- `<keyword>` - Palavras-chave - No C
-- `transparent` - Transparente -
+- `<keyword>` - Palavras-chave - O CSS desde o começo da sua padronização pela W3C reconhece alumas palavras-chave para cores, são 17 cores básicas: `aqua`, `black`, `blue`, `fuchsia`, `gray`, `green`, `lime`, `maroon`, `navy`, `olive`, `orange`, `purple`, `red`, `silver`, `teal`, `white` e `yellow`. E mais recentemente incluiu as palavras-chave do [X11](https://en.wikipedia.org/wiki/X_Window_System) (X-Window é o toolkit e protocolo padrão para GUI nos sistemas Unix e assemelhados). São 147 palavras-chave que vão desde `lavenderblush` até `sandybrown`. Aqui uma lista com todas as cores: https://www.w3.org/TR/css-color-3/#svg-color. 
+  <!-- Imagem com cores básicas -->
+**FALTANDO IMAGEM**
+- `transparent` - Transparente - É uma palavra-chave especial para a cor `rgba(0,0,0,0)`, ou seja, totalmente transparente.
 
 ---
 #### Nesta Seção:

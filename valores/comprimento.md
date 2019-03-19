@@ -15,6 +15,11 @@ Como as unidades absolutas podem nos trazer problemas, elas não são muito util
 
 ### Unidades Relativas
 
+- Em (`em`) - É uma unidade que é relativa ao tamanho da fonte do elemento, ou seja, `2em` significa 2 vezes o tamanho da fonte atual. [Exemplo da unidade Em no Codepen](https://codepen.io/theleoad/pen/jJvWbw/right?editors=1100);
+- Rem (`rem`) - Funciona de uma maneira parecida com o `em`. A diferença é que a `rem` é relativa ao tamanho da fonte do elemento raiz, `<html>`. [Exemplo da unidade Rem no Codepen](https://codepen.io/theleoad/pen/WmgrVJ/right?editors=1100);
+- Pixels (`px`) - No CSS, um pixel é o tamanho necessário para prencheer uma polegada com 96 pixels, ou seja 1/96 de uma polegada. Você vai encontrar em alguns materiais o Pixel como uma unidade absoluta, porém os pixels são relativos ao dispositivo de visualização. Para dispositivos de baixa resolução, 1px é um pixel desse dispositivo (1 ponto) da exibição. Para impressoras e telas de alta resolução, 1px pode implicar em vários pixels de dispositivo;
+- Viewport width unit (vw) - Relativo a 1% do da largura do viewport (o tamanho da janela do navegador);
+- Viewport height unit (vh) - Relativo a 1% do da altura do viewport (o tamanho da janela do navegador).
 
 
 ---
