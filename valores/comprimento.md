@@ -1,5 +1,5 @@
 # Valores - Comprimento
-###### [Guia CSS](../README.md) > [Valores](./valores) > Comprimento
+###### [Guia CSS](../README.md) > [Valores](./valores.md) > Comprimento
 ---
 
 Um Valor de Comprimento é expressado por um número positivo ou negativo (quando permitido), seguido imediatamente por uma abreviação de duas letras que representa uma unidade a ser utilizada. Não pode existir espaço entre o número e a unidade. Quando o número nesse valor for 0 (zero), não é necessário expressar uma unidade.

@@ -1,5 +1,5 @@
 # Valores - Palavras-chave
-###### [Guia CSS](../README.md) > [Valores](./valores) > Palavras-chave
+###### [Guia CSS](../README.md) > [Valores](./valores.md) > Palavras-chave
 ---
 
 Várias propriedades CSS têm palavras-chave específicas que podem ser usadas para atribuir valores. Ou seja, essas palavras-chave tem siginificado específico para a propriedade em que é utilizada. Por exemplo, `normal` tem significados totalmente únicos para as propriedades `font-weight` e `letter-spacing`. 

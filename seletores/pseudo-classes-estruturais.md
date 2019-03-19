@@ -100,42 +100,92 @@ p:last-of-type {
 
 ### :nth-child(an+b) 
 Seleciona um ou mais elementos com base em suas posições em um grupo de elementos irmãos.    
-**Sintaxe**: ` `  
-**Como funciona**:    
+**Sintaxe**: `elemento:nth-child(an+b)` onde `a` e `b` são inteiros e `n` é uma série infinita de inteiros contando a partir do primeiro filho. Existem ainda duas palavras chaves que selecionam os filhos pares e ímpares respectivamente: `even` e `odd`.  
+**Como funciona**: `li:nth-child(3n+1)` seleciona todo todo terceiro elemento `li` (dentro de um grupo de elementos irmãos), começando do primeiro.  
 **Exemplo**:  
 ```html
-<html>
+<ul>
+  <li>1</li>
+  <li>2</li>
+  <li>3</li>
+  <li>4</li>
+  <li>5</li>
+  <li>6</li>
+  <li>7</li>
+<ul>
 ```
 ```css
-css {
+li:nth-child(3n+1) { /* seleciona todo terceiro elemento li, começando do primeiro */
+  background: red; 
+}
+
+li:nth-child(5) { /* seleciona somente o quinto elemento, começando do primeiro*/
+  color: blue;
+}
+
+li:nth-child(even) { /* seleciona todos elementos pares*/
+  color: pink;
 }
 ```
 ---
 
 ### :nth-last-child(an+b) 
 Seleciona um ou mais elementos com base em sua posição entre um grupo de elementos irmãos, contando a partir do último.  
-**Sintaxe**: ` `  
-**Como funciona**:    
+**Sintaxe**: `elemento:nth-last-child(an+b)` onde `a` e `b` são inteiros e `n` é uma série infinita de inteiros contando a partir do último filho. Existem ainda duas palavras chaves que selecionam os filhos pares e ímpares respectivamente: `odd` e `even`.    
+**Como funciona**: `li:nth-last-child(3n+1)` seleciona todo todo terceiro elemento `li` (dentro de um grupo de elementos irmãos), começando do último.  
 **Exemplo**:  
 ```html
-<html>
+<ul>
+  <li>1</li>
+  <li>2</li>
+  <li>3</li>
+  <li>4</li>
+  <li>5</li>
+  <li>6</li>
+  <li>7</li>
+<ul>
 ```
 ```css
-css {
+li:nth-last-child(3n+1) { /* seleciona todo terceiro elemento li, começando do último */
+  background: red; 
+}
+
+li:nth-child(2) { /* seleciona somente o penúltimo elemento */
+  color: blue;
+}
+
+li:nth-child(even) { /* seleciona todos elementos ímpares*/
+  color: pink;
 }
 ```
 ---
 
 ### :nth-of-type(an+b) 
-Seleciona um ou mais elementos de um tipo, baseado em sua posição entre um grupo de elementos irmãos.    
-**Sintaxe**: ` `  
-**Como funciona**:    
+Seleciona um ou mais elementos de um tipo, baseado em sua posição entre um grupo de elementos irmãos.  
+**Sintaxe**: `elemento:nth-of-type(an+b)` onde `a` e `b` são inteiros e `n` é uma série infinita de inteiros contando a partir do primeiro elemento do tipo. Existem ainda duas palavras chaves que selecionam os elemento do tipo pares e ímpares respectivamente: `even` e `odd`.  
+**Como funciona**: `p:nth-of-type(3n+1)` seleciona todo todo terceiro elemento `p` (dentro de um grupo de elementos irmãos e do mesmo tipo), começando do primeiro.   
 **Exemplo**:  
 ```html
-<html>
+<div>
+  <p>Um parágrafo</p>
+  <p>Um parágrafo</p>
+  <p>Um parágrafo</p>
+  <img src="" title="Imagem exemplo">
+  <p>Um parágrafo</p>
+  <p>Um parágrafo</p>
+</div>
 ```
 ```css
-css {
+p:nth-of-type(3n+1) { /* seleciona todo terceiro elemento do tipo p, começando do primeiro */
+  color: red;
+}
+
+p:nth-of-type(4) { /* seleciona somente o quarto elemento do tipo p*/
+  font-weight: bold;
+}
+
+p:nth-of-type(odd) { /* seleciona todos elementos do tipo p ímpares*/
+  text-decoration: underline;
 }
 ```
 ---

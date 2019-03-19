@@ -1,5 +1,5 @@
 # Valores - Cores
-###### [Guia CSS](../README.md) > [Valores](./valores) > Cores
+###### [Guia CSS](../README.md) > [Valores](./valores.md) > Cores
 ---
 
 Os valores de cores são usados em propriedades como `color` e `background-color`, eles podem ter alguns diferentes formatos:

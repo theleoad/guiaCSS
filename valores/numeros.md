@@ -1,5 +1,5 @@
 # Valores - Números
-###### [Guia CSS](../README.md) > [Valores](./valores) > Números
+###### [Guia CSS](../README.md) > [Valores](./valores.md) > Números
 ---
 
 Um valor numérico é apresentado como um número positivo ou negativo (em casos permitidos). Esses números podem ser reais ou inteiros, mas podem ter alguma restrição, como por exemplo os valores para cores que vão de 0-255. Algumas propriedades não aceitam números negativos.  

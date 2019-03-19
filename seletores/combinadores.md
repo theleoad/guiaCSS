@@ -9,7 +9,7 @@ O combinador ` `&nbsp;(espaço em branco) seleciona os elementos que são filhos
 **Exemplo**:  
 ```html
 <div>
-  <p>Usando o seletor por tag</p>
+  <p>Usando o combinador "espaço"</p>
 </div>
 ```
 ```css
@@ -79,6 +79,8 @@ img ~ p {
   color: blue;
 }
 ```
+
+[Exemplos de utilização de Combinadores no Codepen](https://codepen.io/theleoad/pen/GeXjBj/right?editors=1100);
 
 ---
 #### Nesta Seção:

@@ -115,6 +115,8 @@ Seleciona elementos baseado no valor de um dos seus atributos (`nome-do-atributo
 }
 ```
 
+[Exemplos de utilização de Seletores Básicos no Codepen](https://codepen.io/theleoad/pen/wOEWpv/right?editors=1100);
+
 ---
 #### Nesta Seção:
 [**Seletores**](./seletores.md)   
