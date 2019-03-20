@@ -9,7 +9,7 @@ Uma **Regra CSS** é uma declaração que define estilo a um ou mais elementos n
 
 - Seletor: indica o elemento HTML que você deseja adicionar o estilo;
 - Bloco de Declaração: contém uma ou mais declarações separadas por ponto e vírgula. Cada declaração leva uma propriedade CSS e um Valor separados por dois pontos;
-  - Propriedade:  é o atributo do elemento HTML ao qual será aplicada a regra (por exemplo: font-size, color, background, etc);
+  - Propriedade: é um aspecto do elemento HTML que será modificado (por exemplo: font-size, color, background, etc);
   - Valor: é a característica específica a ser assumida pela propriedade (por exemplo: fonte de 16px, cor vermelha, fundo azul).
 
 ![Legal, mas e aí?](https://media1.tenor.com/images/555b77dde4cbfa15cb2c108493e019bf/tenor.gif)  
