@@ -2,7 +2,10 @@
 ###### [Guia CSS](../README.md) > [Propriedades](./propriedades.md) > Texto
 ---
 
-Vamos listar algumas propriedades que você provavelmente irá precisar quando estiver lidando com texto:
+Vamos listar algumas propriedades que você provavelmente irá precisar quando estiver lidando com texto.
+
+##### Acesso rápido:
+[font-family](#font-family) | [font-size](#font-size) | [font-style](#font-style) | [font-variant](#font-variant) | [font-weight](#font-weight) | [font](#font) | [line-height](#line-height) | [letter-spacing](#letter-spacing) | [text-align](#text-align) | [text-decoration](#text-decoration) | [text-indent](#text-indent) | [text-transform](#text-transform)
 
 ### `font-family`
 
