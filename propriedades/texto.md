@@ -8,10 +8,10 @@ Vamos listar algumas propriedades que você provavelmente irá precisar quando e
 
 A propriedade `font-family` define a fonte de um elemento. Essa propriedade pode receber mais de um valor, ou seja, uma lista de fontes separadas por vírgulas. O navegador irá usar o primeiro valor da lista, caso esse não esteja disponível, tentará o próximo. Caso o nome da família tenha espaços em branco, ela deve ser coloca entre aspas.  
 É por isso que é importante fazer o uso das "famílias genêricas" nessa lista de fontes. Quando nenhuma fonte da lista estive diponível e existir uma fonte de família genêrica na lista, o navegador ira selecionar uma fonte aceita pelo computador.  
-**Valores:** `<nome-da-família>` | `<família-generica>`  | `initial` | `inherit`
-**Informação extra:** as famílias genêricas são `serif` | `sans-serif` | `monospace` | `cursive` | `fantasy`
+**Valores:** `<nome-da-família>` | `<família-generica>`  | `initial` | `inherit`  
+**Informação extra:** as famílias genêricas são `serif` | `sans-serif` | `monospace` | `cursive` | `fantasy`  
 **Valor padrão:** depende do navegador  
-**Exemplo**
+**Exemplo:**
 ```css
 h1 {
     font-family: "Times New Roman", serif;
@@ -46,7 +46,7 @@ h3 {
 
 ### `font-style`
 
-A propriedade `font-style` define um estilo para a fonte, que podem ser o normal, itálico ou oblíquo.
+A propriedade `font-style` define um estilo para a fonte, que podem ser o normal, itálico ou oblíquo.  
 **Valores:** `normal` | `italic` | `oblique` | `initial` | `inherit`  
 **Valor padrão:** `normal`  
 **Exemplo:**  
@@ -59,7 +59,7 @@ span {
 
 ### `font-variant`
 
-A propriedade `font-variant` define se o texto pode estar ou não em *small-caps* ([Versalete em português](https://pt.wikipedia.org/wiki/Versalete)).
+A propriedade `font-variant` define se o texto pode estar ou não em *small-caps* ([Versalete em português](https://pt.wikipedia.org/wiki/Versalete)).  
 **Valores:** `normal` | `small-caps` | `initial` | `inherit`   
 **Valor padrão:** `normal`  
 **Exemplo:**  
@@ -104,6 +104,7 @@ A propriedade `font` é uma maneira abreviada para declarar todas as propriedade
 - `font-style`, `font-variant` e `font-weight` devem vir antes de `font-size`  
 - `line-height` deve vir imediatamente após `font-size`, precedido por uma barra (/), dessa maneira: `16px/3`;  
 - `font-family` deve ser o último valor declarado.  
+    
 **Valores:** Os valores usados nessa propriedade são os das propriedades que o `font` abraça.  
 **Valores padrão:** Os valores padrão são os das propriedades que o `font` abraça.
 
@@ -138,7 +139,7 @@ p {
 ### `letter-spacing`
 A propriedade `letter-spacing` aumenta ou diminui o espaço entre os caracteres num texto.  
 **Valores:** `normal` | `<valor-de-comprimento>` | `initial` | `inherit`  
-**Valor padrão:** `normal`
+**Valor padrão:** `normal`  
 **Exemplo:**
 ```css
 span {
@@ -205,7 +206,7 @@ p {
 ### `text-transform`
 A propriedade `text-transform` define a capitalização do texto, se o texto vai aparecer todo em maiúsculas  ou minúsculas por exemplo.
 **Valores:** `none` | `capitalize` | `uppercase` | `lowercase` | `initial` | `inherit`;  
-**Valor padrão:** `none`;
+**Valor padrão:** `none`;  
 **Exemplo:**  
 ```css
 h1 {
