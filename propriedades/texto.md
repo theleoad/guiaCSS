@@ -164,16 +164,13 @@ p {
 ---
 
 ### `text-decoration`
-A propriedade `text-decoration` adiciona um tipo de decoração ao elemento. E essa propriedade é uma forma de abreviação para outras três propriedades:
-- text-decoration-line (valor obrigatório);
-  - É o único valor obrigatório e define o tipo de decoração, que pode ser sublinhado por exemplo.
-- text-decoration-color (opcional);
-  - É opcional e define a cor da decoração.
-- text-decoration-style (opcional);
-  - É opicional e define um estilo para a decoração, que pode ser sólido ou pontilhado, por exemplo.  
+A propriedade `text-decoration` adiciona um tipo de decoração ao elemento. Essa propriedade é uma forma de abreviação para outras três propriedades:
+- `text-decoration-line` (valor obrigatório) - É o único valor obrigatório e define o tipo de decoração, que pode ser sublinhado por exemplo;
+- `text-decoration-color` (opcional) - É opcional e define a cor da decoração;
+- `text-decoration-style` (opcional) - É opicional e define um estilo para a decoração, que pode ser sólido ou pontilhado, por exemplo.
   
 **Sintaxe:**  
-`text-decoration: <text-decoration-line> <text-decoration-color> <text-decoration-style>`  
+`text-decoration: <text-decoration-line> <text-decoration-color> <text-decoration-style>;`  
 **Valores:**  
 - **`text-decoration-line`**: `none` | `underline` | `overline` | `line-through` | `initial` | `inherit`;
   - **Valor padrão:** `none`.
