@@ -1,4 +1,4 @@
-# Pseudo-classes
+# Pseudo-elementos
 ###### [Guia CSS](../README.md) > [Seletores](./seletores.md) > Pseudo-elementos
 ---
 
@@ -11,7 +11,7 @@ Vamos falar dos pseudo-elementos mais utilizados abaixo.
 ### ::first-line
 Seleciona a primeira linha de um elemento. Normalmente é usado para dar estilo a primeira linha de um parágrafo. A quantidade de texto selecionada por esse seletor vai depender de fatores como tamanho da fonte, altura da linha, espaço entre as letras, tamanho do viewport, etc.  
 **Sintaxe**: `elemento::first-line`  
-**Como funciona**: `p::first-line` seleciona a primeira linha do elemento `p`. 
+**Como funciona**: `p::first-line` seleciona a primeira linha do elemento `p`.  
 **Exemplo**:  
 ```html
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur dignissim pharetra nisl nec vehicula. Pellentesque luctus lectus eu sem ultricies faucibus. Cras varius ligula vel arcu consectetur maximus.</p>
@@ -24,9 +24,9 @@ p::first-line {
 ---
 
 ### ::first-letter
-Seleciona a primeira letra de um elemento. É importante dizer que por questões idiomáticas pontos que precedam a primeira letra também serão selecionados. Por exemplo se o texto inicar com aspas, as aspas e a primeira letra serão selecionados.
+Seleciona a primeira letra de um elemento. É importante dizer que por questões idiomáticas pontos que precedam a primeira letra também serão selecionados. Por exemplo se o texto inicar com aspas, as aspas e a primeira letra serão selecionados.  
 **Sintaxe**: `elemento::first-letter`  
-**Como funciona**: `p::first-letter` seleciona a primeira letra do elemento `p`. 
+**Como funciona**: `p::first-letter` seleciona a primeira letra do elemento `p`.  
 **Exemplo**:  
 ```html
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur dignissim pharetra nisl nec vehicula. Pellentesque luctus lectus eu sem ultricies faucibus. Cras varius ligula vel arcu consectetur maximus.</p>
@@ -41,7 +41,7 @@ p::first-letter {
 ### ::before
 O seletor `::before` cria um falso elemento antes do elemento em que é utilizado e permite que seja adicionado e estilizado algum conteúdo.  
 **Sintaxe**: `elemento::berfore`  
-**Como funciona**: `div::berfore` cria um elemento antes de qualquer elemento `div`. 
+**Como funciona**: `div::berfore` cria um elemento antes de qualquer elemento `div`.  
 **Exemplo**:  
 ```html
 <div></div>
@@ -57,7 +57,7 @@ div::before {
 ### ::after
 O seletor `::after` cria um falso elemento depois do elemento em que é utilizado e permite que seja adicionado e estilizado algum conteúdo.  
 **Sintaxe**: `elemento::after`  
-**Como funciona**: `div::after` cria um elemento depois de qualquer elemento `div`. 
+**Como funciona**: `div::after` cria um elemento depois de qualquer elemento `div`.  
 **Exemplo**:  
 ```html
 <div></div>
