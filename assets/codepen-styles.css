@@ -1,4 +1,4 @@
-* {
+*:not(.nbb) {
     box-sizing: border-box;
   }
   
