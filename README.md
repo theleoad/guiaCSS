@@ -26,7 +26,7 @@
 4. [Propriedades :computer:](./propriedades/propriedades.md)
    - [Texto](./propriedades/texto.md)
    - [Cor](./propriedades/cor.md)
-   - [Espaçamento](./espacamento.md) 
+   - [Espaçamento](./propriedades/espacamento.md) 
 
 ---
 
