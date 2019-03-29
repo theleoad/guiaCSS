@@ -85,6 +85,43 @@ a:hover {
 }
 ```
 ---
+
+### :link 
+
+Seleciona elementos que contenham links que ainda não foram visitados.
+**Sintaxe**: `elemento:link`  
+**Como funciona**: `a:link` seleciona qualquer `a` que ainda não tenha tido seu link visitado.  
+**Exemplo**:  
+```html
+<a href="http://ftt.unievangelica.edu.br">FTT</a>
+```
+```css
+a:link {
+    text-decoration: none;
+}
+```
+---
+
+### :visited
+
+Seleciona elementos que contenham links que já tenham sido visitados.
+**Sintaxe**: `elemento:visited`  
+**Como funciona**: `a:visited` seleciona qualquer `a` que ainda já tenha tido seu link visitado.  
+**Exemplo**:  
+```html
+<a href="http://ftt.unievangelica.edu.br">FTT</a>
+```
+```css
+a:visited {
+    color: purple;
+}
+```
+---
+
+
+
+
+---
 #### Nesta Seção:
 [**Seletores**](./seletores.md)   
 [Seletores Básicos](./seletores-basicos.md) | [Combinadores](./combinadores.md) | [Pseudo-classes](./pseudo-classes.md) | [Pseudo-elementos](./pseudo-elementos.md)
