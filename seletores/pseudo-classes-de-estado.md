@@ -8,7 +8,7 @@ As pseudo-classes dessa categoria são todas relacionadas ao estado do elemento 
 
 Seleciona todo elemento que esteja no estado em que os navegadores chamam de ativo. Esse estado é o tempo entre pressionar o botão principal do mouse e liberá-lo.  
 **Sintaxe**: `elemento:active`  
-**Como funciona**: `a:active` eleciona qualquer `a` no intervalo entre o usuário pressionar o mouse sobre o elemento e liberá-lo.    
+**Como funciona**: `a:active` seleciona qualquer `a` no intervalo entre o usuário pressionar o mouse sobre o elemento e liberá-lo.    
 **Exemplo**:  
 ```html
 <a href="http://ftt.unievangelica.edu.br">FTT</a>
@@ -24,7 +24,7 @@ a:active {
 
 Seleciona todo elemento que esteja alternado para um estado ligado. Exemplos são os tipos `checkbox` e `radio` do elemento `input`.
 **Sintaxe**: `elemento:checked`  
-**Como funciona**: `input[type="checkbox"]:checked` eleciona qualquer `input` com o tipo `checkbox` que esteja num estado ligado.    
+**Como funciona**: `input[type="checkbox"]:checked` seleciona qualquer `input` com o tipo `checkbox` que esteja num estado ligado.    
 **Exemplo**:  
 ```html
 <input type="checkbox" name="frutas" value="banana"/> <label for="banana"> Banana</label> <br> 
@@ -41,7 +41,7 @@ input[type="checkbox"]:checked {
 
 Seleciona todo elemento desativado. Um elemento está desativado quando ele não pode ser selecionado, clicado, digitado, etc, ou aceitar foco.  
 **Sintaxe**: `elemento:disabled`   
-**Como funciona**: `input:disabled` eleciona qualquer `input` que esteja desativado.  
+**Como funciona**: `input:disabled` seleciona qualquer `input` que esteja desativado.  
 **Exemplo**:  
 ```html
 <label>Nome: <input type="text" disabled></label>
@@ -58,7 +58,7 @@ input:disabled {
 
 Seleciona todo elemento ativado. Um elemento está ativado quando ele pode ser selecionado, clicado, digitado, etc, ou aceitar foco.
 **Sintaxe**: `elemento:enabled`   
-**Como funciona**: `input:enabled` eleciona qualquer `input` que esteja ativado.  
+**Como funciona**: `input:enabled` seleciona qualquer `input` que esteja ativado.  
 **Exemplo**:  
 ```html
 <label>Nome: <input type="text" disabled></label>
