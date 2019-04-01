@@ -40,8 +40,8 @@ p::first-letter {
 
 ### ::before
 O seletor `::before` cria um falso elemento antes do elemento em que é utilizado e permite que seja adicionado e estilizado algum conteúdo.  
-**Sintaxe**: `elemento::berfore`  
-**Como funciona**: `div::berfore` cria um elemento antes de qualquer elemento `div`.  
+**Sintaxe**: `elemento::before`  
+**Como funciona**: `div::before` cria um elemento antes de qualquer elemento `div`.  
 **Exemplo**:  
 ```html
 <div></div>

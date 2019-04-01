@@ -44,7 +44,7 @@ section > p {
 ### Seletores de irmãos adjacentes 
 O combinador `+` seleciona os elementos que seguem imediatamente o elemento especificado anteriormente.   
 **Sintaxe**: `primeiro-irmao + segundo-irmao`  
-**Como funciona**: `img p` irá corresponder a qualquer elemento `<p>` que segue imediatamente após um elemento `<img>`.  
+**Como funciona**: `img + p` irá corresponder a qualquer elemento `<p>` que segue imediatamente após um elemento `<img>`.  
 **Exemplo**:  
 ```html
 <div>
@@ -64,7 +64,7 @@ img + p {
 ### Seletores gerais de irmãos
 O combinador `~` seleciona os elementos que seguem (não necessariamente imediatamente) o elemento especificado anteriormente, os elementos precisam compartilhar o mesmo pai.   
 **Sintaxe**: `primeiro-irmao ~ segundo-irmao`  
-**Como funciona**: `img p`  irá corresponder a todo elemento `<p>` que seguir um elemento `<img>`  dentro de um mesmo elemento pai.  
+**Como funciona**: `img ~ p`  irá corresponder a todo elemento `<p>` que seguir um elemento `<img>`  dentro de um mesmo elemento pai.  
 **Exemplo**:  
 ```html
 <div>
