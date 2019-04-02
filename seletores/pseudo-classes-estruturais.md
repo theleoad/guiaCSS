@@ -7,7 +7,7 @@ Para definir essa divisão especial colocada como "estruturais" precisamos prime
 ### :empty  
 Seleciona qualquer elemento que não tenha filhos. Os filhos podem ser ou outros elementos ou blocos de texto (incluindo espaços em branco).   
 **Sintaxe**: `elemento:empty`  
-**Como funciona**: `div:empty` eleciona qualquer `<div>` que não tenha conteúdo.  
+**Como funciona**: `div:empty` seleciona qualquer `<div>` que não tenha conteúdo.  
 **Exemplo**:  
 ```html
 <div></div>

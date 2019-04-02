@@ -8,7 +8,7 @@ Existe apenas uma pseudo-classe nessa categoria, porém ela merece uma categoria
 
 Seleciona todo elemento que **não** é representado pelo seletor *e*. É importante dizer que o seletor *e* não pode conter outro seletor de negação.
 **Sintaxe**: `elemento:not(e)`  
-**Como funciona**: `p:not(.especial)` eleciona qualquer `p` que não tenha a classe `.especial`.  
+**Como funciona**: `p:not(.especial)` seleciona qualquer `p` que não tenha a classe `.especial`.  
 **Exemplo**:  
 ```html
 <p>Usando o seletor de negação.</p>
