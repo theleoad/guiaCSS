@@ -131,7 +131,7 @@ li:nth-child(even) { /* seleciona todos elementos pares*/
 
 ### :nth-last-child(an+b) 
 Seleciona um ou mais elementos com base em sua posição entre um grupo de elementos irmãos, contando a partir do último.  
-**Sintaxe**: `elemento:nth-last-child(an+b)` onde `a` e `b` são inteiros e `n` é uma série infinita de inteiros contando a partir do último filho. Existem ainda duas palavras chaves que selecionam os filhos pares e ímpares respectivamente: `odd` e `even`.    
+**Sintaxe**: `elemento:nth-last-child(an+b)` onde `a` e `b` são inteiros e `n` é uma série infinita de inteiros contando a partir do último filho. Existem ainda duas palavras chaves que selecionam os filhos pares e ímpares respectivamente: `even` e `odd`.    
 **Como funciona**: `li:nth-last-child(3n+1)` seleciona todo todo terceiro elemento `li` (dentro de um grupo de elementos irmãos), começando do último.  
 **Exemplo**:  
 ```html
@@ -192,14 +192,30 @@ p:nth-of-type(odd) { /* seleciona todos elementos do tipo p ímpares*/
 
 ### :nth-last-of-type(an+b) 
 Seleciona um ou mais elementos de um tipo, baseado em sua posição entre um grupo de elementos irmãos, contando a partir do último.  
-**Sintaxe**: ` `  
-**Como funciona**:    
+**Sintaxe**: `elemento:nth-last-of-type(an+b)` onde `a` e `b` são inteiros e `n` é uma série infinita de inteiros contando a partir do último elemento do tipo. Existem ainda duas palavras chaves que selecionam os elemento do tipo pares e ímpares respectivamente: `even` e `odd`.   
+**Como funciona**: `p:nth-last-of-type(3n+1)` seleciona todo todo terceiro elemento `p` (dentro de um grupo de elementos irmãos e do mesmo tipo), começando do último.  
 **Exemplo**:  
 ```html
-<html>
+<div>
+  <p>Um parágrafo</p>
+  <p>Um parágrafo</p>
+  <p>Um parágrafo</p>
+  <img src="" title="Imagem exemplo">
+  <p>Um parágrafo</p>
+  <p>Um parágrafo</p>
+</div>
 ```
 ```css
-css {
+p:nth-last-of-type(3n+1) { /* seleciona todo terceiro elemento do tipo p, começando do último */
+  color: red;
+}
+
+p:nth-last-of-type(4) { /* seleciona somente o quarto elemento do tipo p, começando do último*/
+  font-weight: bold;
+}
+
+p:nth-last-of-type(even) { /* seleciona todos elementos do tipo p pares*/
+  text-decoration: underline;
 }
 ```
 
