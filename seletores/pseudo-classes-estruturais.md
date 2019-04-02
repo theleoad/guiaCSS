@@ -112,7 +112,7 @@ Seleciona um ou mais elementos com base em suas posições em um grupo de elemen
   <li>5</li>
   <li>6</li>
   <li>7</li>
-<ul>
+</ul>
 ```
 ```css
 li:nth-child(3n+1) { /* seleciona todo terceiro elemento li, começando do primeiro */
@@ -143,18 +143,18 @@ Seleciona um ou mais elementos com base em sua posição entre um grupo de eleme
   <li>5</li>
   <li>6</li>
   <li>7</li>
-<ul>
+</ul>
 ```
 ```css
 li:nth-last-child(3n+1) { /* seleciona todo terceiro elemento li, começando do último */
   background: red; 
 }
 
-li:nth-child(2) { /* seleciona somente o penúltimo elemento */
+li:nth-last-child(2) { /* seleciona somente o penúltimo elemento */
   color: blue;
 }
 
-li:nth-child(even) { /* seleciona todos elementos ímpares*/
+li:nth-last-child(even) { /* seleciona todos elementos pares*/
   color: pink;
 }
 ```
