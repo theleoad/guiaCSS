@@ -32,7 +32,7 @@
 
 ## Sobre o guia:
 
-Esse guia foi pensado inicialmente como uma referência para novos membros da FTT ([Fábrica de Tecnoligas Turing](http://ftt.unievangelica.edu.br)), uma Fábrica de Software mantida pela UniEvangélica em Anápolis, Goiás.
+Esse guia foi pensado inicialmente como uma referência para novos membros da FTT ([Fábrica de Tecnologias Turing](http://ftt.unievangelica.edu.br)), uma Fábrica de Software mantida pela UniEvangélica em Anápolis, Goiás.
 A ideia era reunir conceitos básicos em português e com exemplos para que os membros da fábrica pudessem usar de maneira prática no trabalho cotidiano e estudar sobre o assunto.  
 Mas seu conteúdo pode ser aproveitado por qualquer pessoa que deseja entender um pouco sobre CSS.
 
