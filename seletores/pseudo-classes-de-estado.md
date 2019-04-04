@@ -61,7 +61,7 @@ Seleciona todo elemento ativado. Um elemento está ativado quando ele pode ser s
 **Como funciona**: `input:enabled` seleciona qualquer `input` que esteja ativado.  
 **Exemplo**:  
 ```html
-<label>Nome: <input type="text" disabled></label>
+<label>Nome: <input type="text"></label>
 ```
 ```css
 input:enabled {
