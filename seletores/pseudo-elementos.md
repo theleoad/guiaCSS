@@ -69,6 +69,12 @@ div::after {
 }
 ```
 
+[Exemplos de utilização de Pseudo-elementos no Codepen](https://codepen.io/theleoad/pen/WWwGBP/right?editors=1100);
+
+[Exemplos de utilização de vários seletores no Codepen](https://codepen.io/theleoad/pen/pYLwWK/right?editors=1100);
+
+
+
 ---
 #### Nesta Seção:
 [**Seletores**](./seletores.md)   

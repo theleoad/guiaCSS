@@ -118,7 +118,7 @@ a:visited {
 ```
 ---
 
-
+[Exemplos de utilização de Pseudo-classes no Codepen](https://codepen.io/theleoad/pen/bJpVYg/right?editors=1100);
 
 
 ---
