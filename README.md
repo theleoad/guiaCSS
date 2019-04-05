@@ -38,7 +38,7 @@ Mas seu conteúdo pode ser aproveitado por qualquer pessoa que deseja entender u
 
 ### Bibliografia
 
-- MEYER, Eric A. CSS: Pocket Referenca. 4ª Edição. Sebastpool, CA: O'Reilly Media, 2011.
+- MEYER, Eric A. CSS: Pocket Reference. 4ª Edição. Sebastpool, CA: O'Reilly Media, 2011.
 - CSS REFERENCE. W3SCHOOLS. Disponível em: <https://www.w3schools.com/cssref/default.asp>. Acesso em: março de 2019.
 - CSS: CASCADING STYLE SHEETS. MDN WEB DOCS. Disponível em: <https://developer.mozilla.org/en-US/docs/Web/CSS> Acesso em: março de 2019.
 - CSS ALMANAC. CSS-TRICKS. Disponível em: <https://css-tricks.com/almanac/>. Acesso em: março de 2019.
