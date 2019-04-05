@@ -48,7 +48,7 @@ O seletor `::before` cria um falso elemento antes do elemento em que é utilizad
 ```
 ```css
 div::before {
-    content: “esse é o ::before”;
+    content: 'esse é o ::before';
     color: red;
 }
 ```
@@ -64,10 +64,16 @@ O seletor `::after` cria um falso elemento depois do elemento em que é utilizad
 ```
 ```css
 div::after {
-    content: “esse é o ::after”;
+    content: 'esse é o ::after';
     color: purple;
 }
 ```
+
+[Exemplos de utilização de Pseudo-elementos no Codepen](https://codepen.io/theleoad/pen/WWwGBP/right?editors=1100);
+
+[Exemplos de utilização de vários seletores no Codepen](https://codepen.io/theleoad/pen/pYLwWK/right?editors=1100);
+
+
 
 ---
 #### Nesta Seção:
