@@ -71,6 +71,6 @@ Como vimos no exemplo a solução é mudar o valor do `box-sizing` para `border-
 [**Conceitos Básicos**](./conceitos-basicos.md)  
 [O que é CSS?](./o-que-e-css.md) | [Adicionando estilo ao HTML](./adicionando-estilo-ao-html.md) | [Regra CSS](./regra-css.md) | [CSS Box Model](./css-box-model.md)
 
-<img src="../assets/guia-css-linha-horizontal.jpg">
+[<img src="../assets/guia-css-linha-horizontal.jpg">](../README.md)
 
 [ftt.unievangelica.edu.br :arrow_backward:](http://ftt.unievangelica.edu.br)

@@ -126,6 +126,6 @@ img {
 [**Propriedades**](./propriedades.md)   
 [Texto](./texto.md) | [Cor](./cor.md) | [Espaçamento](./espacamento.md) 
 
-<img src="../assets/guia-css-linha-horizontal.jpg">
+[<img src="../assets/guia-css-linha-horizontal.jpg">](../README.md)
 
 [ftt.unievangelica.edu.br :arrow_backward:](http://ftt.unievangelica.edu.br)
