@@ -1,6 +1,6 @@
-<img src="./assets/guia-css-logo.jpg">
+[<img src="./assets/guia-css-logo.jpg">](./README.md)
 
-[![made-with-Markdown][(https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](./README.md)](http://commonmark.org) 
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) 
 
 
 # .guia{CSS}
