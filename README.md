@@ -1,6 +1,6 @@
 <img src="./assets/guia-css-logo.jpg">
 
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) 
+[![made-with-Markdown][(https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](./README.md)](http://commonmark.org) 
 
 
 # .guia{CSS}
@@ -50,6 +50,6 @@ Mas seu conteúdo pode ser aproveitado por qualquer pessoa que deseja entender u
 [Leo AD](https://twitter.com/theleoad)  
 <img src="https://img.shields.io/twitter/follow/theleoad.svg?label=Twitter" />
 
-<img src="./assets/guia-css-linha-horizontal.jpg">
+[<img src="./assets/guia-css-linha-horizontal.jpg">](./README.md)
 
 [ftt.unievangelica.edu.br :arrow_backward:](http://ftt.unievangelica.edu.br) 
