@@ -106,6 +106,6 @@ img ~ p {
 [**Seletores**](./seletores.md)  
 [Seletores Básicos](./seletores-basicos.md) | [Combinadores](./combinadores.md) | [Pseudo-classes](./pseudo-classes.md) | [Pseudo-elementos](./pseudo-elementos.md)
 
-<img src="../assets/guia-css-linha-horizontal.jpg">
+[<img src="../assets/guia-css-linha-horizontal.jpg">](../README.md)
 
 [ftt.unievangelica.edu.br :arrow_backward:](http://ftt.unievangelica.edu.br)

@@ -9,6 +9,6 @@ Um valor numérico é apresentado como um número positivo ou negativo (em casos
 [**Valores**](./valores.md)  
 [Palavras-chave](./palavras-chave.md) | [Cores](./cores.md) | [Números](./numeros.md) | [Porcentagem](./porcentagem.md) | [Comprimento](./comprimento.md) 
 
-<img src="../assets/guia-css-linha-horizontal.jpg">
+[<img src="../assets/guia-css-linha-horizontal.jpg">](../README.md)
 
 [ftt.unievangelica.edu.br :arrow_backward:](http://ftt.unievangelica.edu.br) 
